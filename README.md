@@ -27,4 +27,6 @@ This project uses a pre-trained Logistic Regression model to perform sentiment a
    streamlit run app.py
 
 4. Enter a review on the Streamlit app to get a sentiment prediction (positive or negative).
+
+##Link to the app:https://sentiment-analysis-appuct-reviews-ccffcn2bqkuc6y7jiwwgpd.streamlit.app/
    
