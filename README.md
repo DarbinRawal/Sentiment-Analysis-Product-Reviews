@@ -9,7 +9,7 @@ This project uses a pre-trained Logistic Regression model to perform sentiment a
 
 ## Files
 - `app.py`: The main Streamlit application script.
-- `reviews.csv`: Dataset used for training the model.
+- `reviews.csv`: Dataset used for training the model.   # Important notice: This is not a real existing dataset. I have created a synthetic dataset named "reviews.csv".
 - `tfidf_vectorizer.pkl`: Pre-trained TF-IDF vectorizer.
 - `logistic_model.pkl`: Pre-trained Logistic Regression model.
 - `requirements.txt`: List of Python dependencies.
